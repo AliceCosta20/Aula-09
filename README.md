@@ -97,24 +97,25 @@ Executar index.html com o Live Server.
 Acessar a página de cadastro.
 Cadastrar uma pessoa.
 Verificar se os dados foram armazenados no banco de dados.
+
 7. Evidências
 Adicione capturas de tela demonstrando:
 
 Imagem 1 – Tela de listagem
 
-![listagem](./images/image.png)
+![listagem](./images/Captura1.png)
 
 Imagem 2 – Formulário de cadastro
 
-![editar](./images/Captura%20de%20tela%202026-10-22%20164820.png)
+![editar](./images/Capitura4.png)
 
 Imagem 3 – Cadastro funcionando
 
-![cadastro](./images/Captura%20de%20tela%202026-10-22%20164609.png)
+![cadastro](./images/Captura2.png)
 
 Imagem 4 – Registro inserido no banco de dados
 
-![Bancodedados](./images/Captura%20de%20tela%202026-10-22%20165421.png)
+![Bancodedados](./images/Captura3.png)
 
 8. Repositórios
 Back-End (Fork): [https://github.com/AliceCosta20/ProjetoFullStack.git]
