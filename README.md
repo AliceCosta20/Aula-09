@@ -4,7 +4,7 @@ Front-End – Sistema de Gestão de Pessoas
 Atividade 08 – Consumindo o Back-End no Front-End – CRUD
 
 Professor: Vitor Lima Santana
-Aluno(a): [Nome completo]
+Aluno(a): Alice Querino da Costa
 Disciplina: Programação Back-End
 
 1. Objetivo
