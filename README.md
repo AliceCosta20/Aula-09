@@ -120,19 +120,23 @@ Imagem 4 – Registro inserido no banco de dados
 8. Repositórios
 Back-End (Fork): [https://github.com/AliceCosta20/ProjetoFullStack.git]
 
-Front-End: [Inserir link]
+Front-End: [(https://github.com/AliceCosta20/Aula-09.git)]
 
 9. Conclusão do aluno
 Explique com suas palavras:
 
-
-
 Como funciona a comunicação entre o Front-End e o Back-End?
-A comunicação ocorre através do HTTP utilizando o cliente-servidor. O Front-End(Cliente) envia informações
+A comunicação ocorre através do HTTP utilizando o cliente-servidor. O Front-End(Cliente) envia informações como POST, GET, PUT e DELETE, para endpoints de uma API REST no Back-End (servidor). Através desse processo, o Back-End processa essas requisições, interage com a base de dados e devolve uma resposta em formato JSON.
+
 Qual é a finalidade do método POST?
+Esse método tem a função de enviar os dados a partir do cliente para o servidor para criar um novo recurso na base de dados (Cadastrar ou registrar um produto).
+
 Por que utilizamos async/await e try/catch?
+Async/Await são palavras-chaves que servem para operações que demoram a responder (assíncronas).
+Enquanto o try/catch é utilizado para tratar dos erros durante a execução dos processos assíncronas. Por exemplo, se uma requisição falhar, seja por uma rede ou erro de servidor, o bloco catch captura o erro e impende que essa aplicação piore.
+
 Quais dificuldades você encontrou durante a atividade?
-[Escreva sua conclusão aqui.]
+Durante a realização da atividade, a principal dificuldade foi compreender o fluxo de envio e recebimento de dados entre as requisições do Front-End e as rotas do Back-End, além de tratar adequadamente os erros com try/catch para garantir o bom funcionamento da interface em casos de falha na API.
 
 Créditos
 Professor responsável: Vitor Lima Santana
